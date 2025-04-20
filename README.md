@@ -11,8 +11,7 @@ https://github.com/user-attachments/assets/d0be0b60-d119-45b4-b779-96b4ff1cee30
 ## Desain Program
 
 ### ERD Database
-![ERD](https://github.com/user-attachments/assets/faa622dd-4a14-46f2-87d9-0b8bb7261c7d)
-
+![image](https://github.com/user-attachments/assets/33e3f2a6-4117-4235-ab09-cdc6d37a90f0)
 
 ### Struktur Database
 Database `inventory_db` terdiri dari 3 tabel utama:

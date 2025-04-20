@@ -6,7 +6,7 @@ Implementasi sistem manajemen inventaris menggunakan PHP dengan fitur CRUD untuk
 Saya Varrell Rizky Irvanni Mahkota dengan NIM 2306245 mengerjakan Tugas Praktikum 7 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Dokumentasi Program
-
+https://github.com/user-attachments/assets/d0be0b60-d119-45b4-b779-96b4ff1cee30
 
 ## Desain Program
 
